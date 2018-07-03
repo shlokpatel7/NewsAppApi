@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PostFetch</string>
+    <string name="news_prompt">Shelf</string>
+    <string-array name="country_arrays">
+        <item>TechCrunch</item>
+        <item>The Economist</item>
+        <item>The Next Web</item>
+        <item>Financial Times</item>
+        <item>Business Insider</item>
+    </string-array>
+</resources>
